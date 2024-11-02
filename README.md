@@ -1,4 +1,4 @@
-# Restack AI SDK - Gemini Generate Content Example
+# Restack AI SDK - Autonomous PR Creator
 
 ## Prerequisites
 
@@ -21,8 +21,8 @@
 
 3. Clone this repository:
    ```bash
-   git clone https://github.com/restackio/examples-python
-   cd examples-python/examples/gemini_create_pr
+   git clone https://github.com/restackio/autonomous-pr-creator
+   cd autonomous-pr-creator
    ```
 
 4. Install dependencies using Poetry:
