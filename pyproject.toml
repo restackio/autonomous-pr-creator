@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "gemini_create_pr"
+name = "autonomous-pr-creator"
 version = "0.0.1"
-description = "A simple example to create a PR using Google Gemini"
+description = "Autonomous PR Creator using Restack AI SDK"
 authors = [
     "Restack Team <service@restack.io>",
 ]
